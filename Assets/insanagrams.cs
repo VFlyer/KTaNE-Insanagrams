@@ -63,6 +63,7 @@ public class insanagrams : MonoBehaviour {
 
     void handleKeyPress(int button) {
         newAudio.PlayGameSoundAtTransform(KMSoundOverride.SoundEffect.ButtonPress, buttons[button].transform);
+        if (!_lightsOn || _isSolved) return;
         switch (button) {
             case 0://A
                 ans.text += "A";
