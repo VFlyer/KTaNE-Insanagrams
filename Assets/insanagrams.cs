@@ -496,7 +496,7 @@ public class insanagrams : MonoBehaviour {
         modules.Add("Monsplode Trading Cards", "Landscaped Dorm Sorting");
         modules.Add("Morse-A-Maze", "Mrs A-Zee-Roam");
         modules.Add("Morse Code", "Do Some Rec");
-        modules.Add("Morse Idnetification", "A Moist Iron Deficient");
+        modules.Add("Morse Identification", "A Moist Iron Deficient");
         modules.Add("Morsematics", "Scariest Mom");
         modules.Add("Morse War", "Ear Worms");
         modules.Add("Mortal Kombat", "Mr Balk Tomato");
